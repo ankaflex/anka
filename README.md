@@ -4,9 +4,7 @@
 <a href="https://www.instagram.com/ankaonurhan"><img src=""/></a> &nbsp;
 
 My Server: https://discord.gg/1925
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/969853617567825960)](https://discord.com/users/969853617567825960)
-
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
